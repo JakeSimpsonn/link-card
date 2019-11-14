@@ -68,7 +68,7 @@ html {
   background-color: #cabdb2;
 }
 
-.link-card a {
+.btn {
   text-decoration: none;
   color: #f0eee8;
   font-family: Dosis, sans-serif;
@@ -81,6 +81,6 @@ html {
   width: auto;
 }
 
-.link-card a:hover {
+.btn:hover {
   background-color: #785439;
 }
