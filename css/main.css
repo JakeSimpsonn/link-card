@@ -11,6 +11,7 @@ html {
 .link-card h2 {
   color: #512200;
   font-family: Dosis, sans-serif;
+  font-weight: bold;
 }
 
 .card-title {
