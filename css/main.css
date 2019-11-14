@@ -62,3 +62,20 @@ html {
 .card-fact-values ul {
   list-style-type: none;
 }
+
+.link-card:hover {
+  background-color: #cabdb2;
+}
+
+.link-card a {
+  text-decoration: none;
+  color: #f0eee8;
+  font-family: Dosis, sans-serif;
+  font-size: 1.125rem;
+  text-align: center;
+  display: block;
+  padding: .4em .75em .5em;
+  background-color: #785439;
+  border-radius: 8px;
+  width: auto;
+}
