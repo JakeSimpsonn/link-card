@@ -79,3 +79,7 @@ html {
   border-radius: 8px;
   width: auto;
 }
+
+.link-card a:hover {
+  background-color: #785439;
+}
