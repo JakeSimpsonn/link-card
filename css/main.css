@@ -78,11 +78,7 @@ dt {
   background-color: #cabdb2;
 }
 
-.card-fact-keys {
-  width: auto;
-  display: inline-block;
-  font-size: .875rem;
-}
+
 
 .card-fact-keys ul {
   padding: 0;
