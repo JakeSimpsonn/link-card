@@ -82,6 +82,11 @@ a {
   text-decoration: none;
 }
 
+.link-card:hover .btn {
+  background-color: #785439;
+}
+
+
 .card-fact-keys ul {
   padding: 0;
   list-style-type: none;
