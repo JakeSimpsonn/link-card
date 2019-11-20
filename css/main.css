@@ -70,6 +70,14 @@ dt {
   margin: 0;
 }
 
+.btn-wrap {
+  padding: 1rem 3.5rem 0;
+}
+
+.link-card:hover {
+  background-color: #cabdb2;
+}
+
 .card-fact-keys {
   width: auto;
   display: inline-block;
