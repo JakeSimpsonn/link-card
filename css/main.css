@@ -46,6 +46,14 @@ p {
   text-decoration: none;
 }
 
+dd {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+  font-style: italic;
+}
+
 dl {
   font-family: Georgia, snas-serif;
   color: #785439;
