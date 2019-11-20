@@ -18,11 +18,15 @@ html {
   margin: 0;
 }
 
-.card-title {
-  font-family: Georgia, sans-serif;
-  color: #512200;
-  font-size: .875rem;
-  font-weight: bold;
+.link-card {
+  background-color: #dcd4cd;
+  padding: 1rem;
+  border-radius: 3px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #9a816d;
+  display: block;
+  text-decoration: none;
 }
 
 .card-information {
