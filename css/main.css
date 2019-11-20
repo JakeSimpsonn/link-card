@@ -1,3 +1,4 @@
+/**************************** html ****************************/
 html {
   box-sizing: border-box;
   font-family: Georgia;
@@ -7,6 +8,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+/**************************** body ****************************/
 
 .link-card h2 {
   color: #512200;
