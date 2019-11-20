@@ -38,7 +38,29 @@ html {
   padding: 1rem 0;
 }
 
+p {
+  font-family: Georgia, sans-serif;
+  display: inline-block;
+  font-size: 1rem;
+  color: #785439;
+  text-decoration: none;
+}
 
+dl {
+  font-family: Georgia, snas-serif;
+  color: #785439;
+  font-size: .875rem;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+dt {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+}
 
 .card-information {
   font-size: 1rem;
