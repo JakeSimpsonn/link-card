@@ -78,7 +78,9 @@ dt {
   background-color: #cabdb2;
 }
 
-
+a {
+  text-decoration: none;
+}
 
 .card-fact-keys ul {
   padding: 0;
