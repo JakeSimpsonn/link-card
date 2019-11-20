@@ -1,5 +1,5 @@
 /**************************** html ****************************/
-html{
+html {
   box-sizing: border-box;
   font-family: Georgia;
   line-height: 1.5;
@@ -100,8 +100,4 @@ a {
   justify-content: center;
   align-content: center;
   align-items: center;
-}
-
-.btn-wrap {
-  padding: 1rem 3.5rem 0;
 }
